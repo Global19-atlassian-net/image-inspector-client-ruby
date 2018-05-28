@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop', '~> 0.49.1'
 
   spec.add_dependency 'json'
-  spec.add_dependency 'recursive-open-struct', '~> 1.0.0'
+  spec.add_dependency 'recursive-open-struct', '~> 1.0'
   spec.add_dependency 'rest-client', '~> 2.0'
 end
